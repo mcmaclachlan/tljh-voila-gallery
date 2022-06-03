@@ -1,5 +1,12 @@
 examples:
   country-indicators:
+    title: Nyrekurs
+    description: Nyrekurs
+    url: voila/render/Nyrekur.ipynb
+    repo_url: https://github.com/mcmaclachlan/NewNyrekurs
+    ref:
+    image_url: 
+  country-indicators:
     title: Country Indicators
     description: Explore the correlations between indicators of development using matplotlib and ipywidgets
     url: voila/render/index.ipynb
